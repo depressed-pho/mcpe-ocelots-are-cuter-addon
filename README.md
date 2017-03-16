@@ -1,4 +1,4 @@
-# Ocelots are Cuter
+# Ocelots are Cuter Add-on
 
 Have you ever disappointed when you found an amazingly adorable animal
 in a jungle, but after taming it the cutest thing somehow morphed into
