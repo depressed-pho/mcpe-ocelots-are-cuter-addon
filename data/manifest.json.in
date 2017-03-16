@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Replace the texture of cats with ocelot",
+        "name": "Ocelots are Cuter",
+        "uuid": "a8f6b9c8-09e6-11e7-a93a-000c2990bea9",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Replace the texture of cats with ocelot",
+            "type": "resources",
+            "uuid": "afe33392-09e6-11e7-8767-000c2990bea9",
+            "version": [0, 0, 1]
+        }
+    ]
+}
