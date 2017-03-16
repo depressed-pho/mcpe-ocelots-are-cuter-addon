@@ -4,7 +4,7 @@ Have you ever got disappointed when you found an amazingly adorable
 animal in a jungle, but as soon as you tamed it the cutest thing
 somehow morphed into a completely different creature?
 
-*Hey, this isn't what I wanted!*
+*Hey, this isn't what I wanted to befriend!*
 
 ![](./img/screenshot.jpg)
 
