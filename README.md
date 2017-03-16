@@ -1,7 +1,10 @@
 # Ocelots are Cuter
 
-FIXME: Screenshot here
-<!-- ![](./img/screenshot.jpg) -->
+Have you ever disappointed when you found an amazingly adorable animal
+in a jungle, but after taming it the cutest thing somehow morphed into
+completely different creature?
+
+![](./img/screenshot.jpg)
 
 This is an MCPE resource pack which makes ocelots preserve their
 texture even after you tamed them. Since it's only a resource pack you
