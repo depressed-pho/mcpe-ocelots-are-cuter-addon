@@ -1,4 +1,4 @@
-SUBDIRS = data
+SUBDIRS = data img
 
 EXTRA_DIST = \
 	README.md

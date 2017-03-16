@@ -35,5 +35,6 @@ AS_IF([test "x$ZIP" = x],
 AC_CONFIG_FILES([
     Makefile
     data/Makefile
+    img/Makefile
 ])
 AC_OUTPUT
