@@ -2,7 +2,7 @@
 
 Have you ever disappointed when you found an amazingly adorable animal
 in a jungle, but after taming it the cutest thing somehow morphed into
-completely different creature?
+a completely different creature?
 
 ![](./img/screenshot.jpg)
 
