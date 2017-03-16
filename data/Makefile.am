@@ -1,3 +1,5 @@
+MANIFEST_SRC = manifest.json.in
+
 MCPACK_FILES = \
 	manifest.json \
 	pack_icon.png \
@@ -9,4 +11,5 @@ MCPACK_FILES = \
 EXTRA_DIST=
 CLEANFILES=
 noinst_DATA=
+include $(top_srcdir)/am/manifest.am
 include $(top_srcdir)/am/mcpack.am

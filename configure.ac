@@ -14,6 +14,11 @@ AM_MAINTAINER_MODE
 AM_SILENT_RULES([yes])
 
 # Checks for programs.
+AC_ARG_VAR([SED], [The sed command @<:@autodetected@:>@])
+AC_PROG_SED
+AS_IF([test "x$SED" = x],
+      [AC_MSG_ERROR([You need to install a sed command.])])
+
 AC_ARG_VAR([ZIP], [The Info-Zip zip command @<:@autodetected@:>@])
 AC_CHECK_PROGS([ZIP], [zip])
 AS_IF([test "x$ZIP" = x],
@@ -30,6 +35,5 @@ AS_IF([test "x$ZIP" = x],
 AC_CONFIG_FILES([
     Makefile
     data/Makefile
-    data/manifest.json
 ])
 AC_OUTPUT
