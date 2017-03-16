@@ -1,8 +1,10 @@
 # Ocelots are Cuter Add-on
 
-Have you ever got disappointed when you found an amazingly adorable animal
-in a jungle, but after taming it the cutest thing somehow morphed into
-a completely different creature?
+Have you ever got disappointed when you found an amazingly adorable
+animal in a jungle, but after taming it the cutest thing somehow
+morphed into a completely different creature?
+
+*Hey, this isn't what I wanted!*
 
 ![](./img/screenshot.jpg)
 
